@@ -93,7 +93,7 @@ body{
   }
 .navbar a{
     position: relative;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: var(--white-color);
     font-weight: 600;
     margin-right: 3.86rem;
@@ -642,7 +642,7 @@ span{
     }
 
     .home .home-content p{
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         width: 300px;
     }
     .professional-container .profession-box .profession h3{
