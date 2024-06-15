@@ -135,8 +135,8 @@ section{
 .home{
     display: flex;
     align-items: center;
-
 }
+
 .home .home-content{
     max-width: 44rem;
 }
@@ -263,10 +263,10 @@ section{
 }
 
 .circle{
-    width: 760px;
-    height: 760px;
+    width: 680px;
+    height: 680px;
     border-radius: 50%;
-    border: 3px solid var(--main-color);
+    border: 4px solid var(--main-color);
 }
 
 .overlay{
@@ -275,10 +275,10 @@ section{
     right: 0;
     width: 0;
     height: 0;
-    border-top: 470px solid var(--main-color);
-    border-right: 470px solid var(--main-color);
-    border-bottom: 470px solid var(--main-color);
-    border-left: 470px solid transparent;
+    border-top: 400px solid var(--main-color);
+    border-right: 400px solid var(--main-color);
+    border-bottom: 400px solid var(--main-color);
+    border-left: 400px solid transparent;
 }
 .home-img img{
     position: absolute;
@@ -296,7 +296,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 7rem;
+    gap: 6.5rem;
 }
 
 .about-img img{
@@ -310,6 +310,7 @@ span{
 }
 
 .about-content h2{
+    margin-top: 9rem;
     text-align: left;
     line-height: 1.2;
 }
