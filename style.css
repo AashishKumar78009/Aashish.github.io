@@ -7,9 +7,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 :root {
-  --bg-color: #fdfdfd;
-  --text-color: #333;
-  --main-color: #007BFF;
+  --bg-color: #222629;
+  --text-color: #fff;
+  --main-color: #7fbf26;
   --white-color: #fdfdfd;
   --shadow-color: rgba(0, 0, 0, 0.2);
 }
@@ -116,7 +116,7 @@ body{
 }
 
 #menu-icon{
-    cursor: pointer;
+     cursor: pointer;
      font-size: 3.4rem;
      color: var(--text-color);
      margin-left: 20px;
@@ -296,7 +296,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5rem;
+    gap: 7rem;
 }
 
 .about-img img{
